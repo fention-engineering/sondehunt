@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bazjo &#8211; Sondehunt</title>
+	<atom:link href="https://sondehunt.de/archive/author/sondehunt/feed" rel="self" type="application/rss+xml" />
+	<link>https://sondehunt.de</link>
+	<description>DB4ZJOs radiosonde page</description>
+	<lastBuildDate>Thu, 01 Aug 2019 21:24:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>https://sondehunt.de/wp-content/uploads/2018/12/cropped-parachute-32x32.png</url>
+	<title>bazjo &#8211; Sondehunt</title>
+	<link>https://sondehunt.de</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Start einer Ozonsonde in Uccle</title>
+		<link>https://sondehunt.de/archive/1069</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2019 17:59:32 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=1069</guid>
+
+					<description><![CDATA[Am 29.07.2019 hatte ich auf dem Rückweg vom Tomorrowland Festival in Belgien einen Abstecher zum KMI in Uccle organisiert, um dort meine zwei belgischen Ozonsonden zurückzubringen und mir das Institut und einen Ozonsondenstart anzuschauen. Das KMI hat nun seit fast genau 50 Jahren eine kontinuierliche Ozonmessreihe aus Radiosondenaufstiegen. Aufstiege werden immer Mo., Mi. und Fr. &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/1069" class="more-link"><span class="screen-reader-text">„Start einer Ozonsonde in Uccle“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 29.07.2019 hatte ich auf dem
+Rückweg vom Tomorrowland Festival in Belgien einen Abstecher zum KMI in Uccle
+organisiert, um dort meine zwei belgischen Ozonsonden zurückzubringen und mir das
+Institut und einen Ozonsondenstart anzuschauen.</p>
+
+
+
+<p>Das KMI hat nun seit fast genau 50
+Jahren eine kontinuierliche Ozonmessreihe aus Radiosondenaufstiegen. Aufstiege
+werden immer Mo., Mi. und Fr. um 11:30 UTC durchgeführt. Verwendet werden ECC
+Ozonsonden, auf die Mitte der 90er Jahre umgestellt wurde, zuvor wurden Brewer-Mast
+Sonden verwendet.</p>
+
+
+
+<p>Grundsätzlich wird bei einer Ozonsondierung eine normale Radiosonde, hier eine Vaisala RS41 verwendet, an die die Ozonmesseinrichtung angeschlossen wird, die aus einer elektrochemischen Reaktionszelle, eine Sampling-Pumpe und einem Steuerboard und den notwendigen Batterien besteht, und in einer Styroporbox angeschlossen wird. Wem noch nicht bekannt, der sollte einen Blick auf die <a href="https://www.vaisala.com/sites/default/files/documents/Ozone%20Sounding%20with%20Vaisala%20Radiosonde%20RS41%20User%27s%20Guide%20M211486EN-C.pdf">Anleitung zu Ozonsondierungen</a> von Vaisala werfen, die sehr gut und ausführlich ist.</p>
+
+
+
+<p>Die Vorbereitungen beginnen am
+Starttag mit der elektrochemischen Prüfung der Zelle ab 7:30 UTC. Wir
+erreichten das Institut gegen 9:00 UTC und wurden gleich zum Befüllen des
+Ballons mit in das Ballonhangar genommen. Verwendet werden 1200 g Ballons von
+Totex, die auf ein Gegengewicht von 2400 g mit Wasserstoff gefüllt werden. Das
+Wasserstofflager befindet sich ca. 30 m vom Ballonhangar entfernt und ist mit
+diesem über eine unterirdische Rohrleitung verbunden. Wenn das Füllvolumen
+erreicht ist (Der Ballon ist dann, trotz Wasserstofffüllung ein gutes Stück
+größer als ein normaler Heliumballon aus dem Startautomaten) wird der Ballon
+mit Kordel verschnürt und am Fallschirm befestigt. Der Ballon wird aus der Fülleinrichtung
+entfernt und an einem Gewicht befestigt, die Schnur zwischen Fallschirm und
+Sonde wird abgemessen und am Fallschirm angebracht.</p>
+
+
+
+<figure class="wp-block-image"><img fetchpriority="high" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0569-768x1024.jpg" alt="" class="wp-image-1071" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0569-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0569-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Der gefüllte Ballon kann ein paar Stunden im Hangar stehen, während die anderen Vorbereitungen laufen</figcaption></figure>
+
+
+
+<p>Anschließend ging es weiter in das Labor, in welchem die elektrochemischen Vorbereitungen durchgeführt werden, und welches sich im Keller des Instituts befindet. Hier befindet sich der Ozonsondenvorrat, und die Teststation. Während die Vorprüfung für den übernächsten Aufstieg erfolgte, wurden meine Sonden in Empfang genommen. Für die Mitarbeiter in Uccle ist es in Ordnung, wenn der Finder die Sonde öffnet, um das Packvolumen beim Zurücksenden zu reduzieren und die Batterien entfernt. Der Lufteinlassschlauch wird ebenfalls bei jedem Aufstieg ersetzt.</p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-1"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0570-1024x768.jpg" alt="" data-id="1072" data-link="https://sondehunt.de/?attachment_id=1072" class="wp-image-1072" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0570-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0570-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0570-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die elektrochemische Teststation wie im Vaisal-Manual beschrieben</figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0572-1024x768.jpg" alt="" data-id="1073" data-link="https://sondehunt.de/?attachment_id=1073" class="wp-image-1073 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0572-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0572-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0572-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Der Vorrat an Ozonsonden. Am Besuchstag wurde eine neue Sonde gestartet, die Rücklaufquote liegt bei etwa 40%</figcaption></figure></li></ul>
+
+
+
+<p>Weiter ging die Tour auf dem
+Dachboden, wo die Empfangsstation und der Groundcheck untergebracht sind. Hier
+erhielt ich die Gelegenheit, ein paar mitgebrachte Sonden auf eine andere
+Frequenz zu programmieren.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-2"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-1024x1024.jpg" alt="" data-id="1074" data-link="https://sondehunt.de/?attachment_id=1074" class="wp-image-1074" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-1024x1024.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-150x150.jpg 150w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-300x300.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-768x768.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0574-100x100.jpg 100w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Telemetrie- und GPS-Antenne. Auch das alte Radom aus RS80/90-Zeiten steht noch auf dem Dach</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0576-1024x768.jpg" alt="" data-id="1075" data-link="https://sondehunt.de/?attachment_id=1075" class="wp-image-1075" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0576-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0576-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0576-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Das Groundcheck-Setup aus älterem SPS311, GI41 und PC mit MW41</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0577-1024x768.jpg" alt="" data-id="1076" data-link="https://sondehunt.de/?attachment_id=1076" class="wp-image-1076" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0577-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0577-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0577-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die älteren SPS311 waren im April von dem GPS-Rollover Fehler betroffen, in Uccle fiel für 2 Wochen Starts aus</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0579-1024x768.jpg" alt="" data-id="1078" data-link="https://sondehunt.de/?attachment_id=1078" class="wp-image-1078" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0579-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0579-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0579-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Das RI41 hat vermutlich auch vorher noch keine RS41 &#8220;oben ohne&#8221; gesehen</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0578-1-1024x768.jpg" alt="" data-id="1086" data-link="https://sondehunt.de/?attachment_id=1086" class="wp-image-1086 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0578-1-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0578-1-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0578-1-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Mit 3 RS41 auf ziviler Frequenz steht den ersten Sondenaufstiegen in Gummersbach nichts mehr im Wege</figcaption></figure></li></ul>
+
+
+
+<p>Circa 1 h vor dem Start wird die Ozonsonde für den Groundcheck nach oben geholt. Die Heizbatterie wird angebracht und die Motorbatterie im Batteriefach verklebt. Da Vaisala keine Wasserbatterien mehr vertreibt, ist Uccle im Frühjahr als eine der letzten Stationen auf Lithiumbatterien umgestiegen. Von Vaisala werden anstatt der Wasserbatterie nun 2 9V Lithiumblöcke bereitgestellt, die bereits in Reihe verschaltet, mit dem korrekten Stecker und verklebt geliefert werden.</p>
+
+
+
+<p>Eine Radiosonde wird ausgepackt und
+auf das Groundcheck-Device gelegt. Nachdem der Groundcheck abgeschlossen ist,
+und die Korrekturwerte für die Ozonsonde in MW41 eingegeben wurden, wird die
+Radiosonde an der Ozonsonde befestigt. Der Motor wird eingeschaltet und der
+Motorstrom kontrolliert. Nun wird noch einmal Ozon auf die Sonde gegeben und
+der Messauschlag geprüft, bevor der Motor wieder ausgeschaltet wird.
+Anschließend wird die Sonde auf das Dach gebracht, um den GPS-Fix zu beziehen.
+Die Papierdokumentation der Sonde wird in ein Online-Formular eingetragen und
+zusammengeheftet. Die Sonde wird fertig zugeklebt.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-3"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0583-2-1024x768.jpg" alt="" data-id="1087" data-link="https://sondehunt.de/?attachment_id=1087" class="wp-image-1087" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0583-2-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0583-2-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0583-2-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die Heizbatterie wird angeschlossen und befestigt</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0584-768x1024.jpg" alt="" data-id="1081" data-link="https://sondehunt.de/?attachment_id=1081" class="wp-image-1081" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0584-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0584-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Ersatz für die Wasserbatterien, wie Vaisala ihn ausliefert</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0586-1024x768.jpg" alt="" data-id="1082" data-link="https://sondehunt.de/?attachment_id=1082" class="wp-image-1082" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0586-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0586-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0586-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die Kiste hätte ich auch gerne zuhause</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0587-1024x768.jpg" alt="" data-id="1083" data-link="https://sondehunt.de/?attachment_id=1083" class="wp-image-1083" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0587-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0587-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0587-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die Ozonsonde ist fast fertig</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0589-768x1024.jpg" alt="" data-id="1084" data-link="https://sondehunt.de/?attachment_id=1084" class="wp-image-1084" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0589-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0589-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Verschnürt und nach dem Groundcheck, 30 Min. bis zum Start</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0591-768x1024.jpg" alt="" data-id="1085" data-link="https://sondehunt.de/?attachment_id=1085" class="wp-image-1085 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0591-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0591-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Die Sonde holt sich den GPS Fix</figcaption></figure></li></ul>
+
+
+
+<p>15 Min. vor dem Start werden die
+Werte der Bodenwetterstation in MW41 eingetragen und in der Dokumentation
+ergänzt. Die Sonde wird in das Ballonhangar gebracht und mit beiden Schnüren
+(eine dient zur Verbesserung der Flugstabilität) mit der langen Schnur zum
+Fallschirm verknotet.</p>
+
+
+
+<ul class="wp-block-gallery columns-4 is-cropped wp-block-gallery-4"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0592-1024x768.jpg" alt="" data-id="1089" data-link="https://sondehunt.de/?attachment_id=1089" class="wp-image-1089" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0592-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0592-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0592-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>guter GPS-Fix</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0596-1024x768.jpg" alt="" data-id="1088" data-link="https://sondehunt.de/?attachment_id=1088" class="wp-image-1088" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0596-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0596-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0596-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>interne Doku</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0593-1024x768.jpg" alt="" data-id="1090" data-link="https://sondehunt.de/?attachment_id=1090" class="wp-image-1090" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0593-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0593-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0593-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>in verschiedenen</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="768" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0594-1024x768.jpg" alt="" data-id="1091" data-link="https://sondehunt.de/?attachment_id=1091" class="wp-image-1091 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0594-1024x768.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0594-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0594-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Weboberflächen</figcaption></figure></li></ul>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-5"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0582-768x1024.jpg" alt="" data-id="1096" data-link="https://sondehunt.de/?attachment_id=1096" class="wp-image-1096" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0582-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0582-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Dokumetation der Kalibration der Sonde vor dem Start</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0597-768x1024.jpg" alt="" data-id="1094" data-link="https://sondehunt.de/?attachment_id=1094" class="wp-image-1094" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0597-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0597-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>ein echter Plotterausdruck zeigt die Antwort des Sensors beim Test mit Ozon</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0599-768x1024.jpg" alt="" data-id="1095" data-link="https://sondehunt.de/?attachment_id=1095" class="wp-image-1095 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0599-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0599-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Dokumentation am Starttag</figcaption></figure></li></ul>
+
+
+
+<p>Ein zweiter Mitarbeiter geht nun mit der Sonde aus dem Hangar, und das Gespann wird zu einer nahen Wiese gebracht. Der Ballon wird Stück für Stück aufgelassen. Nun kam mein Moment: ich durfte die Sonde festhalten und warten, bis der Aufstiegszeitpunkt gekommen war. Dann entließ ich die Sonde auf ihre Reise, die sie bis <a href="https://sondehub.org/P4620317">westlich von Antwerpen</a> geführt hat.</p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-6"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0600-768x1024.jpg" alt="" data-id="1097" data-link="https://sondehunt.de/?attachment_id=1097" class="wp-image-1097" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0600-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0600-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>fertiges Austiegsgespann</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0601-768x1024.jpg" alt="" data-id="1098" data-link="https://sondehunt.de/?attachment_id=1098" class="wp-image-1098" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0601-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0601-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Das Ballonhangar ist nun auch geöffnet</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/photo_2019-08-01_19-19-18-768x1024.jpg" alt="" data-id="1100" data-link="https://sondehunt.de/?attachment_id=1100" class="wp-image-1100" srcset="https://sondehunt.de/wp-content/uploads/2019/08/photo_2019-08-01_19-19-18-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/photo_2019-08-01_19-19-18-225x300.jpg 225w, https://sondehunt.de/wp-content/uploads/2019/08/photo_2019-08-01_19-19-18.jpg 960w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Und ich darf die Sonde starten!</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0602-768x1024.jpg" alt="" data-id="1099" data-link="https://sondehunt.de/?attachment_id=1099" class="wp-image-1099 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/08/IMG_0602-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/08/IMG_0602-225x300.jpg 225w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>Da fliegt sie, und man kann sie noch mehrere Minuten sehen</figcaption></figure></li></ul>
+
+
+
+<p>Ich bedanke mich ganz herzlich bei
+Roger Ameloot, Roeland van Malderen und dem ganzen Team des KMI, die mir diesen
+tollen Einblick in ihre Arbeit ermöglicht haben!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mein erster Hattrick</title>
+		<link>https://sondehunt.de/archive/1034</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Sun, 09 Jun 2019 13:33:17 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=1034</guid>
+
+					<description><![CDATA[Ich hatte ja schon länger auf meinen ersten Hattrick gehofft, aber bis jetzt waren erst einmal zwei aufeinanderfolgende Sonden drin gewesen. Das änderte sich, als ich am Mittwochmorgen von Manöversonden aus Baumholder geweckt wurde, die grade im Anflug auf mein Haus waren. Schnell ging es aus dem Bett, und mit dem nächsten Zug nach Marienheide, &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/1034" class="more-link"><span class="screen-reader-text">„Mein erster Hattrick“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Ich hatte ja schon länger auf meinen ersten Hattrick gehofft,  aber bis jetzt waren erst einmal zwei aufeinanderfolgende Sonden drin gewesen. Das änderte sich, als ich am Mittwochmorgen von Manöversonden aus Baumholder geweckt wurde, die grade im Anflug auf mein Haus waren. Schnell ging es aus dem Bett, und mit dem nächsten Zug nach Marienheide, wo die erste 0630Z Sonde vorhin im Wald bei Listringhausen gelandet war. Während ich noch auf den Bus dorthin wartete. landete schon die nächste Sonde hinter Marienheide.</p>
+
+
+<div id="sonde-find-block_5cfd07daae14b" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.08188, 7.615553&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#21 Baumholder – Listringhausen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Graw DFM-09 / 17007958 / 05.06.2019 0630Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/already_recycled" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=DF638556" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Nachdem die Position der ersten Sonde an der Bushaltestelle dekodiert worden war, ging es bei schönstem Wetter 2 km in den Wald, nur um festzustellen, dass der Schirm in ca. 7,5 m Höhe am Waldrang hing, und die Sonde nicht zu sehen war. Also schnell den Schirm geangelt und runtergezogen, und siehe da &#8211; die robuste DFM ließ sich über die Baumwipfel ziehen, und schließlich abseilen. Erstes Gespann &#8211; eingesackt.</p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-7"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/22.jpg" alt="" data-id="1043" data-link="https://sondehunt.de/?attachment_id=1043" class="wp-image-1043" srcset="https://sondehunt.de/wp-content/uploads/2019/06/22.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/22-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/21.jpg" alt="" data-id="1044" data-link="https://sondehunt.de/?attachment_id=1044" class="wp-image-1044 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/06/21.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/21-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li></ul>
+
+
+<div id="sonde-find-block_5cfd08c2ae14c" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.08944, 7.557713&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#22 Baumholder – Marienheide</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Graw DFM-09 / 17050161 / 05.06.2019 0800Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/already_reused" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=DF642A31" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Weiter ging es zum zweiten Gespann, diesmal mit dem Bus bis zur Bruchertalsperre, dort über die Staumauer und diesmal etwa 3 km in den Wald, vorher natürlich noch die Position genommen. Diesmal hing der Fallschirm an einer hohen Fichte, die an eine Fichtenschonung grenzte, und ich musst mich den Hang entlang zur Landestelle hangeln. Wieder hing der Fallscirm gerade so in der Reichweite meiner Stange, wieder konnte die Sonde abgeseilt werden. Diesmal musste ich allerdings mit der Schnur der anderen verlängern. Neues Tool im Sondenrucksack: DFM-Schnur.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-8"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/13.jpg" alt="" data-id="1040" data-link="https://sondehunt.de/?attachment_id=1040" class="wp-image-1040" srcset="https://sondehunt.de/wp-content/uploads/2019/06/13.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/13-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/11.jpg" alt="" data-id="1041" data-link="https://sondehunt.de/?attachment_id=1041" class="wp-image-1041" srcset="https://sondehunt.de/wp-content/uploads/2019/06/11.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/11-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/12.jpg" alt="" data-id="1042" data-link="https://sondehunt.de/?attachment_id=1042" class="wp-image-1042 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/06/12.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/12-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li></ul>
+
+
+<div id="sonde-find-block_5cfd0938ae14d" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=50.91388, 7.518695&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#23 Baumholder – Nümbrecht</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Graw DFM-09 / 17050614 / 05.06.2019 0930Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/17007958" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=DF642BF6 " target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Die nachfolgende Sonde war derweil schneller runtergegangen und hatte es nur bis Nümbrecht geschafft. Kurze Recherche auf der Rückfahrt ergab, dass die Landestelle fußläufig vom zentralen &#8220;Busbahnhof&#8221; aka Landstraße mit vielen Abzweigen und Bushäuschen Homburg-Bröl im Südkreis hinter Wiehl zu erreichen war. Also in Gummersbach schnell in die TH, um im Labor schnell den inzwischen vollen Rucksack auszuleeren und die Wasserflasche wiederaufzufüllen. Mit dem neuen &#8220;Schnellbus&#8221; 302 ging es bis dorthin. Die Sonde hatte schon aufgehört zu senden, und war auf der Lichtung, auf der die Vorhersage sie sah, nicht zu sehen. Ich stapfte ein paar Schritte in das hohe Unterholz, das voll mit Farnen war, und erblickte die Sonde, wie zum abholen bereitgestellt auf dem Boden. Der Hattrick war komplett. Also schnell zurück zu Bushaltestelle, wo ich dann auch noch drei Zecken davon abhalten konnte, es sich an meinen Waden allzu gemütlich zu machen&#8230; und noch ein Tool für den Sondenrucksack: Zeckenkarte.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-9"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-06.jpg" alt="" data-id="1035" data-link="https://sondehunt.de/?attachment_id=1035" class="wp-image-1035" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-06.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-06-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-32.jpg" alt="" data-id="1036" data-link="https://sondehunt.de/?attachment_id=1036" class="wp-image-1036" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-32.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-32-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-32-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-36-2.jpg" alt="" data-id="1039" data-link="https://sondehunt.de/?attachment_id=1039" class="wp-image-1039 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-36-2.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-36-2-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_15-30-36-2-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gulaschprogrammiernacht, die zweite</title>
+		<link>https://sondehunt.de/archive/1018</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Thu, 06 Jun 2019 09:05:08 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=1018</guid>
+
+					<description><![CDATA[Als auf dem Montag der Heimweg anstand, gab die Vorhersage für die Mittagssonde aus Idar Anlass dazu, einen Schlenker über Koblenz zu machen, zumal wir den am Abend anstehenden Stream der WWDC Keynote bei flynamic in Bonn sehen wollten. Während sich die Sonde auf den Weg machte, die Vorhersage sah eine Landung südlich von Koblenz, &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/1018" class="more-link"><span class="screen-reader-text">„Gulaschprogrammiernacht, die zweite“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5cf8d65c7244d" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=50.204663, 7.590497&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">NP4 Idar-Oberstein – Boppard</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P2050587 / 03.06.2019 1200Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P2050587" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">given away</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P2050587" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Als auf dem Montag der Heimweg anstand, gab die Vorhersage für die Mittagssonde aus Idar Anlass dazu, einen Schlenker über Koblenz zu machen, zumal wir den am Abend anstehenden Stream der WWDC Keynote bei flynamic in Bonn sehen wollten.</p>
+
+
+
+<p>Während sich die Sonde auf den Weg machte, die Vorhersage sah eine Landung südlich von Koblenz, machten wir Station bei Vapiano und anschließend noch einen kurzen Spaziergang zum deutschen Eck. Die Sonde fiel  derweil sehr schnell und schaffte es nicht einmal mehr über den Rhein und landete unweit der A61 bei Boppard. </p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-10"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-39.jpg" alt="" data-id="1019" data-link="https://sondehunt.de/?attachment_id=1019" class="wp-image-1019" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-39.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-39-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-41.jpg" alt="" data-id="1020" data-link="https://sondehunt.de/?attachment_id=1020" class="wp-image-1020 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-41.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-41-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-05_23-03-41-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul>
+
+
+
+<p>Zügig ging es zur letzten Position, doch das Signal der Sonde war kaum zu hören, geschweige denn zu dekodieren. Eine offenbar nahegelegener BOS-Funk Standort müllte das Spektrum auch noch mit TETRA zu, was die Sache nicht leichter machte. Erst mit auf sechs Direktoren aufgestockter mobiler Yagi war etwas zu machen. Als die Sonde gefunden wurde, war auch klar wieso: die Antenne hatte sich quasi in den weichen Waldboden eingegraben und der Sondenkörper lag auf ihr. Der kleine rote Fallschirm und der große Ballonrest hingen in einem naheliegenden Baum außer Reichweite der Stange und konnten auch nicht heruntergezogen werden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Souvenir von der Gulaschprogrammiernacht</title>
+		<link>https://sondehunt.de/archive/1006</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Sun, 02 Jun 2019 18:10:34 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=1006</guid>
+
+					<description><![CDATA[Mit flynamic und nikcani ging es über Christi Himmelfahrt nach Karlsruhe zur GPN19. Natürlich das Sondenjagdequipment mit an Bord, man weiß ja nicht, was einen so erwartet. Und tatsächlich begab sich die sonntägliche Stuttgarter Mittagssonde in vertretbare Entfernung und landete südöstlich von Bietigheim-Bissingen, auf einer Koppel hinter einem Hof. Ich hatte die Befürchtung, dass die &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/1006" class="more-link"><span class="screen-reader-text">„Souvenir von der Gulaschprogrammiernacht“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5cf40dfb8cdd0" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=48.940190, 9.165946&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#20 Stuttgart – Bietigheim-Bissingen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3620018 / 02.06.2019 1200Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3620018" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3620018" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Mit flynamic und nikcani ging es über Christi Himmelfahrt nach Karlsruhe zur GPN19. Natürlich das Sondenjagdequipment mit an Bord, man weiß ja nicht, was einen so erwartet. Und tatsächlich begab sich die   sonntägliche Stuttgarter Mittagssonde in vertretbare Entfernung und landete südöstlich von Bietigheim-Bissingen, auf einer Koppel hinter einem Hof.</p>
+
+
+
+<p>Ich hatte die Befürchtung, dass die rechtzeitige Bergung der Sonde im umkämpfteren Baden-Württemberg schwieriger sein würde als an meinem regulären QTH, und trug daher auch die geplante Bergung bei radiosondy ein. Leider kam es aber dann zu keiner spontanen Begegnung an der Sonde. Bei unserem Eintreffen ca. 90 min nach der Landung war die Sonde aktiv und lies sich auch ziemlich einfach bergen.</p>
+
+
+
+<p>Die Sonde befand sich auf einem Feldweg hinter einem Bauernhof, der große Ballonrest und der ungeöffnete Fallschirm hinter einem Elektrozaun auf einer Pferdekoppel, ließen sich aber hinüberziehen.</p>
+
+
+
+<p>EDIT: Wie sich herausstellt, war der VFL Gummersbach genau eine Woche später in Bietigheim leider weniger erfolgreich als ich&#8230;  <a href="https://www.ksta.de/region/oberberg-ks/vukovic-tritt-zurueck-vfl-gummersbach-steigt-ab---nach-53-jahren-in-erster-liga-32659150">https://www.ksta.de/region/oberberg-ks/vukovic-tritt-zurueck-vfl-gummersbach-steigt-ab&#8212;nach-53-jahren-in-erster-liga-32659150</a> </p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-11"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-25.jpg" alt="" data-id="1010" data-link="https://sondehunt.de/?attachment_id=1010" class="wp-image-1010" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-25.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-25-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-25-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-32.jpg" alt="" data-id="1011" data-link="https://sondehunt.de/?attachment_id=1011" class="wp-image-1011 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-32.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-02_20-08-32-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sondenstart in Essen</title>
+		<link>https://sondehunt.de/archive/1051</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2019 19:37:12 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=1051</guid>
+
+					<description><![CDATA[Am 23.04. ging es mit Jason und seinem Papa nach Essen, um dort einen Sondenstart am Container live mit anzusehen. Und beim Start wurden wir nicht enttäuscht. Nach einem Besuch des nahelegenden Flugplatzes und dem Mittagessen ging es der Sonde nach, Richtung Gelsenkirchen Buir. Die Sonde fiel sehr langsam, und man konnte den Fallschirm im &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/1051" class="more-link"><span class="screen-reader-text">„Sondenstart in Essen“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1024" height="575" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-38-36-1024x575.jpg" alt="" class="wp-image-1052" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-38-36-1024x575.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-38-36-300x169.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-38-36-768x431.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-38-36.jpg 1280w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+
+
+
+<p>Am 23.04. ging es mit Jason und seinem Papa nach Essen, um dort einen Sondenstart am Container live mit anzusehen. Und beim Start wurden wir nicht enttäuscht. Nach einem Besuch des nahelegenden Flugplatzes und dem Mittagessen ging es der Sonde nach, Richtung Gelsenkirchen Buir. Die Sonde fiel sehr langsam, und man konnte den Fallschirm im Landeanflug sehen. Leider landete die Sonden in einem hohen Laubbaum über einer Hundeschule. Auf dem Rückweg ging es an der Landestelle der vorherigen nachtsonde vorbei, deren Finder zufällig im Garten waren. So kam Jason dann doch noch zu seinem ersten eigenen Gespann.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="768" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-39-05-768x1024.jpg" alt="" class="wp-image-1053" srcset="https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-39-05-768x1024.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-39-05-225x300.jpg 225w, https://sondehunt.de/wp-content/uploads/2019/06/photo_2019-06-09_19-39-05.jpg 960w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+
+
+<div id="sonde-find-block_5cfd45fb4d50d" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.58147, 7.06895&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">NO8 Essen – Gelsenkirchen-Buir</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3530154 / 23.04.2019 0000Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3530154" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">hanging in tree</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3530154" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>
+
+<div id="sonde-find-block_5cfd46654d50e" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.53194, 6.707732&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">NP3 Essen – Walsum</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3530173 / 24.04.2019 0000Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3530173" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">joint search; not taken sonde</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3530173" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Eine gefunden, eine verloren</title>
+		<link>https://sondehunt.de/archive/991</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2019 15:30:56 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=991</guid>
+
+					<description><![CDATA[Die Essener Mittagssonde landete nicht weit von der letzten Bergneustädter Sonde entfernt. Leider hatte ich nachmittags zu tun, sodass ich erst am nächsten Tag dort schauen konnte. Mit der großen Yagi gelang es mir aber, von meinem Balkon aus genau einen Frame zu entschlüsseln, wonach die Sonde im Wald hing. Die Höhe stimmte ungefähr mit &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/991" class="more-link"><span class="screen-reader-text">„Eine gefunden, eine verloren“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5cbb3a7537c0d" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.0135, 7.66432&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">NO7 Essen – Bergneustadt</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3520493 / 16.04.2019 1200Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3520493" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">lost despite thorough search</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3520493" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Die Essener Mittagssonde landete nicht weit von der letzten Bergneustädter Sonde entfernt. Leider hatte ich nachmittags zu tun, sodass ich erst am nächsten Tag dort schauen konnte. Mit der großen Yagi gelang es mir aber, von meinem Balkon aus genau einen Frame zu entschlüsseln, wonach die Sonde im Wald hing. Die Höhe stimmte ungefähr mit der Geländehöhe überein, allerdings lag der Wald an einem Hang.</p>
+
+
+<div id="sonde-find-block_5cbb3ade37c0e" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=50.95152, 7.659921&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#19 Essen – Schemmerhausen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3440868 / 17.04.2019 0000Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3440868" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3440868" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Morgens ging es aber zuerst zur nachfolgenden Nachtsonde, die auf einem Feld in der Nähe von Reichshof lag, und sehr einfach zu bergen war. Leider konnte Die Bergneustädter Sonde im Wald nicht lokalisiert werden.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-20_17-30-43.jpg" alt="" class="wp-image-992" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-20_17-30-43.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-20_17-30-43-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-20_17-30-43-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ungenügender ÖPNV</title>
+		<link>https://sondehunt.de/archive/975</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Sat, 13 Apr 2019 17:50:17 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=975</guid>
+
+					<description><![CDATA[Die Essener Nachtsonde schlug eine ähnliche Richung ein, wie ihr Vorgänger. Während ich noch mit Flynamic und anderen Freunden die Open Beta von Anno 1800 anspielte, wurde im Hintergrund der Landeanflug aufgenommen. Die Sonde landete auf einer Wiese hinter einem Kaff, Unterboinghausen in Marienheide. ÖPNV-mäßig würde das nichts werden, also wurde die Abholung mit Flynamic &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/975" class="more-link"><span class="screen-reader-text">„Ungenügender ÖPNV“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5cb2202a9b1f0" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.064385, 7.483959&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#18 Essen – Unterboinghausen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3510178 / 13.04.2019 0000Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3510178" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3510178" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Die Essener Nachtsonde schlug eine ähnliche Richung ein, wie ihr Vorgänger. Während ich noch mit Flynamic und anderen Freunden die Open Beta von Anno 1800 anspielte, wurde im Hintergrund der Landeanflug aufgenommen. Die Sonde landete auf einer Wiese hinter einem Kaff, Unterboinghausen in Marienheide. ÖPNV-mäßig würde das nichts werden, also wurde die Abholung mit Flynamic am nächsten Mittag organisiert. Die guten letzten Daten machten eine Ankunft vor Einsetzen des Burst-Kill Timers unnötig, sodass wir uns erst gegen eins auf den Weg machten.</p>
+
+
+
+<ul class="wp-block-gallery columns-4 is-cropped wp-block-gallery-12"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1005" height="728" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_02-54-51.jpg" alt="" data-id="976" data-link="https://sondehunt.de/?attachment_id=976" class="wp-image-976" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_02-54-51.jpg 1005w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_02-54-51-300x217.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_02-54-51-768x556.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1024" height="512" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_16-05-28-1024x512.jpg" alt="" data-id="977" data-link="https://sondehunt.de/?attachment_id=977" class="wp-image-977" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_16-05-28-1024x512.jpg 1024w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_16-05-28-300x150.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_16-05-28-768x384.jpg 768w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_16-05-28.jpg 1280w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-47-1-512x1024.jpg" alt="" data-id="980" data-link="https://sondehunt.de/?attachment_id=980" class="wp-image-980" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-47-1-512x1024.jpg 512w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-47-1-150x300.jpg 150w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-47-1.jpg 640w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="512" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-44-1-512x1024.jpg" alt="" data-id="981" data-link="https://sondehunt.de/?attachment_id=981" class="wp-image-981 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-44-1-512x1024.jpg 512w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-44-1-150x300.jpg 150w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-13_19-28-44-1.jpg 640w" sizes="(max-width: 512px) 100vw, 512px" /></figure></li></ul>
+
+
+
+<p>Vor Ort konnte auch der alternative ÖPNV, inklusive der werktäglichen Abfahrtszeiten in Augenschein genommen werden. Sondenjagd ist ja ein wunderbares Benchmarking des ÖPNV hinsichtlich der Netzdichte; manchmal ist man verwundert, manchmal ist der ÖPNV aber auch genauso schlecht wie man dass erwartet. Hier muss sich in den nächsten Jahren noch einiges tun, wenn der ÖPNV auch in eher ländlich geprägten Regionen eine alternative zum Individualverkehr werden soll. Rant vorbei, weiter mit der Bergung.</p>
+
+
+
+<p>Die war aber recht unspektakulär, das Überqueren des unter Strom gesetzten Elektrozauns ohne Tore war die schwierigste Übung. Auf dem Rückweg ging es dann durch das Dorf, welches wirklich schön war. Und auf einer Wiese standen schon die ersten Osterlämmchen bei ihren Mamas und beäugten uns argwöhnisch. Die Landestelle lag nur etwa 600 m entfernt von  <a href="https://sondehunt.de/archive/492">N2240508</a>, der Meppener Morgensonde vom 07.01.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Geburtstagsgeschenk aus Essen</title>
+		<link>https://sondehunt.de/archive/962</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2019 18:41:46 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=962</guid>
+
+					<description><![CDATA[Mein Geburtstagsgeschenk lieferte der DWD per Luftpost aus. Leider platzte der Ballon etwas früh, so dass noch eine Anfahrt von knapp zehn Kilometer Luftlinie notwendig war. Schwacher Empfang nach der Landung ließ aus dieser Richtung auf einen Baumlander schließen. Flynamic holte mich auf dem Rückweg von der Arbeit nach dem Kaffeetrinken ab, die letzte Position &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/962" class="more-link"><span class="screen-reader-text">„Geburtstagsgeschenk aus Essen“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5cb0dabb90c3d" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.069950, 7.661951&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#17 Essen – Drieberhausen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3530036 / 12.04.2019 1200Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3530036" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3530036" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">individual transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Mein Geburtstagsgeschenk lieferte der DWD per Luftpost aus. Leider platzte der Ballon etwas früh, so dass noch eine Anfahrt von knapp zehn Kilometer Luftlinie notwendig war. Schwacher Empfang nach der Landung ließ aus dieser Richtung auf einen Baumlander schließen. </p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-13"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1013" height="738" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-40-53.jpg" alt="" data-id="967" data-link="https://sondehunt.de/?attachment_id=967" class="wp-image-967" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-40-53.jpg 1013w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-40-53-300x219.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-40-53-768x560.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="852" height="534" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-41-01.jpg" alt="" data-id="968" data-link="https://sondehunt.de/?attachment_id=968" class="wp-image-968 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-41-01.jpg 852w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-41-01-300x188.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-41-01-768x481.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul>
+
+
+
+<p>Flynamic holte mich auf dem Rückweg von der Arbeit nach dem Kaffeetrinken ab, die letzte Position 200 m über Boden ließ darauf hoffen, dass vor Ort kein Dekodieren notwendig war, aber nachdem beim Vorbeifahren kein Ballon zu sehen war holte ich doch noch eben das Macbook raus, während Flynamic einen Parkplatz suchte. Der Baumlander bestätigte sich leider, auch der groé Ballonrest konnte in ca. 7 m Höhe in einen entfernten Baum lokalisiert werden. Von der Mieterin wurden wir direkt an den Eigentümer des Grundstücks in einer wenige hundert Meter entfernten Villa verwiesen, der den Ballon ebenfalls bereits bemerkt hatte.</p>
+
+
+
+<p>Die Schnur am Ballonrest ließ sich mit dem 6 m Mast einfangen, und durch Zug wurde die Sonde in ca. 20 m Höhe in einem entfernten Ahorn geortet. Durch weiteres ruckartiges Ziehen konnte die Sonde schließlich befreit werden und viel zu Boden, der Temperatursensor war wie erwartet gebrochen.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-14"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-33.jpg" alt="" data-id="963" data-link="https://sondehunt.de/?attachment_id=963" class="wp-image-963" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-33.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-33-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-33-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-25.jpg" alt="" data-id="964" data-link="https://sondehunt.de/?attachment_id=964" class="wp-image-964" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-25.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-25-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-25-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="750" height="1000" src="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-30.jpg" alt="" data-id="965" data-link="https://sondehunt.de/?attachment_id=965" class="wp-image-965 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-30.jpg 750w, https://sondehunt.de/wp-content/uploads/2019/04/photo_2019-04-12_20-39-30-225x300.jpg 225w" sizes="(max-width: 706px) 89vw, (max-width: 767px) 82vw, 740px" /></figure></li></ul>
+
+
+
+<p>Nun konnte auch der Ballonrest soweit heruntergezogen werden, dass der Haken an massiveren Elementen des Masten befestigt werden konnte, und der Fallschirm unter Splittern des Astes, indem er sich verfangen hatte, befreit wurde.</p>
+
+
+
+<p>Rechtzeitig zum Abendessen (Nudeln mit Pilzsoße, sie stehen schon oben und warten ;D) ging es nach Hause zurück und wieder einmal zeigt sich, dass die Anschaffung des Mastes gerade zum rechten Zeitpunkt erfolgte; zwei bis drei der vier Sonden, die ich, seitdem ich ihn besitze gefangen habe, hätte ich anders nicht bergen können.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Knapp an der Freileitung vorbei</title>
+		<link>https://sondehunt.de/archive/937</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Fri, 22 Mar 2019 11:40:21 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=937</guid>
+
+					<description><![CDATA[Nachdem die gestrige Essener Mittagssonde nicht genug Ausdauer hatte und am Ufer der Dhünntalsperre gelandet war, legte die Mitternachtssonde einen Mustergültigen Flug hin und landete 6,3 km von meinem QTH entfernt, südlich von Bergneustadt. Von Keanu werden es nur 2-3 km gewesen sein. Nachdem ich die letzten Koordinaten hatte, die die Sonde knapp hinter der &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/937" class="more-link"><span class="screen-reader-text">„Knapp an der Freileitung vorbei“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[<div id="sonde-find-block_5c94c90f59681" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=51.007729, 7.660446&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#16 Essen – Bergneustadt</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P3520761 / 22.03.2019 0000Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P3520761" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P3520761" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Nachdem die gestrige Essener Mittagssonde nicht genug Ausdauer hatte und am Ufer der Dhünntalsperre gelandet war, legte die Mitternachtssonde einen Mustergültigen Flug hin und landete 6,3 km von meinem QTH entfernt, südlich von Bergneustadt. Von Keanu werden es nur 2-3 km gewesen sein. Nachdem ich die letzten Koordinaten hatte, die die Sonde knapp hinter der Mittelspannungsleitung sahen, sprach ich schon das Vorgehen mit Keanu ab: Ich würde morgens den Bus nach Bergneustadt nehmen, dann gemeinsam zur Sonde, und auf dem Weg zur Arbeit setzt er mich wieder zuhause ab. (Damit zähle ich diese Sonde auch als ÖPNV-Sonde, weil so gut wie keine Wegstrecke extra wegen der Sonde mit dem PKW zurückgelegt wurde).</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-25.jpg" alt="" class="wp-image-938" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-25.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-25-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-25-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><figcaption>(Keanu steht an der Sonde)</figcaption></figure>
+
+
+
+<p>Am Landeort, der auf einem Berg lag (das erklärt auch den guten Empfang, ich hatte noch etwas Signal -nicht genug zum dekodieren aber immerhin- nach der Landung), sahen wir schon von weitem den Fallschirm auf der Wiese liegen. Die Sonde hatte die Stromtrasse nur um Meter verfehlt, ich hatte insgeheim schon auf einen Besuch von Westnetz gehofft. Meine erste Sonde in einer Hochspannungsleitung wird aber wohl noch etwas warten, wir haben hier in der Gegend nicht viele Trassen.</p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped wp-block-gallery-15"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="998" height="733" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_01-57-43.jpg" alt="" data-id="939" data-link="https://sondehunt.de/?attachment_id=939" class="wp-image-939" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_01-57-43.jpg 998w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_01-57-43-300x220.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_01-57-43-768x564.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="1000" height="750" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-21.jpg" alt="" data-id="940" data-link="https://sondehunt.de/?attachment_id=940" class="wp-image-940 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-21.jpg 1000w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-21-300x225.jpg 300w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-22_12-34-21-768x576.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zum Glück war die Stange dabei</title>
+		<link>https://sondehunt.de/archive/793</link>
+		
+		<dc:creator><![CDATA[bazjo]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2019 18:34:35 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">https://sondehunt.de/?p=793</guid>
+
+					<description><![CDATA[Am 19. März sahen alle Meppensonden vielversprechend aus. Die Predictions lagen alle auf Höhe Dortmund, was aber ja bei den Meppener Manöverfallschirmen nicht viel zu sagen hat, und wanderten im Laufe des Tages von Osten nach nach Westen. Die 0500Z Sonde landete bei Krombach, fast genau an der Stelle, wo die A4 endet. Kein Gefilde &#8230; <p class="link-more"><a href="https://sondehunt.de/archive/793" class="more-link"><span class="screen-reader-text">„Zum Glück war die Stange dabei“</span> weiterlesen</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Am 19. März sahen alle Meppensonden vielversprechend aus. Die Predictions lagen alle auf Höhe Dortmund, was aber ja bei den Meppener Manöverfallschirmen nicht viel zu sagen hat, und wanderten im Laufe des Tages von Osten nach nach Westen.</p>
+
+
+
+<p>Die 0500Z Sonde landete bei Krombach, fast genau an der Stelle, wo die A4 endet. Kein Gefilde für eine ÖPNV-Anfahrt, und Keanu lag krank zuhause. Die 0800Z Sonde hatte einen super Ballon, der erst über 25000 m platzte und das Gespann in die den starken Westwind in diesen Höhen abdriften ließ, sodass sich der Gleitpfad für die Landung deutlich nach Osten verschob. Der voll geöffnete Fallschirm tat sein übriges, Un so landete die Sonde irgendwo in der Freudenberger Ecke. Die Mittagssonde schließlich nahm direkten Kurs auf Gummersbach, flog in ca. 4500 m Höhe 100 m (Bodenprojektion) an meinem Haus vorbei und landete an die 12 km weiter in Denklingen. Da ON-1 immernoch down ist, musste ich selber den Landeanflug aufzeichnen. Ich experimentiere im Moment noch mit Antennen, habe aber für meinen von Reflexionen geprägten, sehr suboptimalen Empfangsplatz noch nichts besseres als einen Faltdipol gefunden. Damit hatte ich die letzte Position ca. 400 m über Geländehöhe.</p>
+
+
+<div id="sonde-find-block_5c91330f704a3" class="sonde-find ">
+    <iframe src="https://maps.google.com/maps?q=50.912829,7.656916&#038;hl=en&amp;z=10&amp;t=h&amp;output=embed" frameborder="0" allowfullscreen style="display:block; border:0; width: 100%; height: 250px; margin-bottom: 0px;"></iframe>
+    <div style ="background-color:#fff; margin-bottom:20px; padding: 20px">
+        <div style = "font-family: 'Share Tech Mono'; font-size: 1.5em;">#15 Meppen – Denklingen</div>
+        <div style = "margin-top:5px;font-family: 'Ubuntu Mono'; font-size: 1.1em;">Vaisala RS41-SGP / P0720509 / 19.03.2019 1100Z</div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:15px">
+            <span><a style="color:#666;" href="https://sondehub.org/P0720509" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> sondehub.org</a></span>
+            <span style="background-color:#da0031;padding:1px 4px;float:right;color:#fff;">in storage</span>
+        </div>
+        <div style="font-family: 'Ubuntu Mono';margin-top:10px">
+            <span ><a style="color:#666;" href="https://radiosondy.info/sonde.php?sondenumber=P0720509" target="_blank"><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f517.png" alt="🔗" class="wp-smiley" style="height: 1em; max-height: 1em;" /> radiosondy.info</a></span>
+            <span style="background-color:#00632E;padding:1px 4px;float:right;color:#fff;">public transport</span>
+        </div>
+    </div>
+</div>
+
+
+<p>Ab ging es in den Bus, und eine knappe Stunde später hörte ich die RS41 schon an der Bushaltestelle aus dem Handscanner plärren. Schnell am Notebook das Signal dekodiert, ging es durch einen Wald am Kriegerdenkmal vorbei in einen Stich einer Wohnstraße, wo ein paar Häuser an einem Schotterweg standen. Die Sonde sollte genau auf diesem Weg sein. Doch vor der Sonde sah ich den Fallschirm, der ein Stück weiter hinter einem Fachwerkhaus in einer hohen Fichte hing. Die Sonde ließ sich mit der 6 m Stange gut aus dem Baum holen, und der Fallschirm wackelte, wenn man am Schnurrest zog.</p>
+
+
+
+<p>Nach einigem hin und her, und nachdem ich die Schnur auf einen stärkeren Ast als Umlenkpunkt umgelagert hatte, damit ich impulshaltiger Ziehen konnte, schaffte ich es, den Fallschirm zu lösen. Natürlich schaffte ich es nicht, schnell genug die Schur einzuholen, sodass der Schirm in den Garten des Fachwerkhauses segelte, bei dem natürlich niemand zuhause war.</p>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-16"><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="576" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-34-03-576x1024.jpg" alt="" data-id="794" data-link="https://sondehunt.de/?attachment_id=794" class="wp-image-794" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-34-03-576x1024.jpg 576w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-34-03-169x300.jpg 169w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-34-03.jpg 720w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="576" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-58-576x1024.jpg" alt="" data-id="795" data-link="https://sondehunt.de/?attachment_id=795" class="wp-image-795" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-58-576x1024.jpg 576w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-58-169x300.jpg 169w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-58.jpg 720w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" decoding="async" width="576" height="1024" src="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-54-576x1024.jpg" alt="" data-id="796" data-link="https://sondehunt.de/?attachment_id=796" class="wp-image-796 is-layout-flex wp-block-gallery-is-layout-flex" srcset="https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-54-576x1024.jpg 576w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-54-169x300.jpg 169w, https://sondehunt.de/wp-content/uploads/2019/03/photo_2019-03-19_19-33-54.jpg 720w" sizes="(max-width: 576px) 100vw, 576px" /></figure></li></ul>
+
+
+
+<p>Glücklicherweise waren die Nachbarn der Bewohnerin anwesend und gaben mir das Okay, kurz in den Garten zu gehen, um die Gespannreste zu Bergen. Mit komplettem Gespann erreichte ich pünktlich den nächsten Bus gen Heimat.</p>
+
+
+
+<p>Wie es aussieht hat jetzt auch Meppen die letzten ABS-Sonden aufgebraucht. Somit scheint es bei uns in der Region aktuell nur noch die DFS Langen und die Ozonsonden aus De Bilt zu geben, bei denen ABS-Sonden gestartet werden. Gut, dass ich noch drei abbekommen habe…</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
